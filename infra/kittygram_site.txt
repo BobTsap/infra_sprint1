@@ -1,0 +1,5 @@
+IP: 84.201.143.21;
+name_taski: https://taskibob.hopto.org/;
+name_kittygram: https://kittybob.hopto.org/;
+login: yc-user;
+password: yc-user;
