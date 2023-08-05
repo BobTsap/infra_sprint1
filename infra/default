@@ -59,9 +59,6 @@ server {
 
 
 
-
-
-
 server {
     if ($host = kittybob.hopto.org) {
         return 301 https://$host$request_uri;
