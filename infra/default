@@ -23,7 +23,6 @@ server {
 }
 
 
-#test
 
 server {
 	server_name kittybob.hopto.org;
